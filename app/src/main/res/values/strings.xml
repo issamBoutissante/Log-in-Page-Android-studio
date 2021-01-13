@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="password">Password :</string>
-    <string name="log_in">log In</string>
+    <string name="app_name">Exam</string>
+    <string name="register">Register</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter UserName</string>
+    <string name="enter_name">Enter Name</string>
+
 </resources>
